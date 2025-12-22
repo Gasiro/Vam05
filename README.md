@@ -2,32 +2,30 @@
 ## ⚠️ This page is still under construction. Please do not use it for actual builds.
 <img width="3732" height="2100" alt="DO1050918 2" src="https://github.com/user-attachments/assets/ac98bf8f-1d58-41b1-a64f-01a2dfb9e0e6" />
 
-### Step 1 - Install the light pipe (light guide post) on the top case.
+### Step 1 - Install the light guide column on the top case.
 
 ### Step 2 - Prepare the bottom case:
-1. Install the daughterboard + cable, and fasten with M2 screws (use the black hex key).
-2. Install the battery power switch.
-3. Install the waterproof plug / silicone anti-slip pad(s).
+1. Install the C5 daughterboard + JST-SH cable, and fasten with 4 gold M2 screws (use the black hex key).
+2. Install the clear waterproof plug (Bottom RST insert) + 4 white rubber feet.
 ### Step 3 - PCB (front side):
-1. Install the stabilizer pads.
-2. Install the PCB-mounted stabilizers.
+1. Install the switch pad.
+2. Install the 6.25 silent stabilizer.
 ### Step 4 - On the plate (positioning plate):
-1. Install the stabilizer pads.
-2. Install the PCB-mounted stabilizers.
+1. Install one set of the modular gasket units. (3 sets included—choose one set to install; tweezers recommended.)
 ### Step 5 - Assemble the front side:
-1. Install the gasket modules (tweezers recommended).
+1. Install the plate onto the PCB, then install switches + keycaps. (Never install or remove switches or keycaps while the PCB and plate assembly is inside the keyboard case. Otherwise, excessive pressure may BREAK the battery power switch on the top side of the pcb)
 ### Step 6 - PCB (back side):
-1. Install the battery.
+1. Install the HAC-006 battery. Ensure the red wire is on the positive (+) side and the black wire is on the negative (−) side. Connecting a battery with reversed polarity may damage the PCB and could potentially become a fire hazard.
 ### Step 7 - Wiring + battery placement:
 1. Connect the cable from the daughterboard to the main PCB.
-2. Place the battery into the battery compartment (recommended: add foam inside the compartment to keep the battery firmly in place).
+2. Place the battery into the battery compartment (Optional: adding foam inside the compartment can help keep the battery firmly in place).
 ### Step 8 - Mount the assembly into the case:
-1. Place the plate + PCB assembly into the gasket tray.
-2. Make sure all 4 gasket feet/bases are fully seated (you can check from the side).
+1. First, fit the black battery power switch on top of the PCB into the slot in the middle of the dark gray battery switch cover. Then place the plate and PCB assembly into the bottom case, seating all four gasket bases into the gasket slots.
+2. Make sure all four gasket bases are fully seated (check from the PC bottom side). If needed, use tweezers to adjust them to ensure proper seating.
 ### Step 9 - Close the case:
-1. Install the top case and tighten 4× M3 screws (use the silver hex key).
+1. Install the top case and tighten 4× silver M3 screws (use the silver hex key). Use the two longer screws on the rear side, and the two shorter screws on the front side.
 ### Step 10 - Test / keymap check:
-1. Connect to a computer and open chromeZMKstudio to verify the key positions.
+1. Connect the keyboard to a computer, then open ZMK Studio in Chrome to check or change the keymap.
 ### Step 11 - Bluetooth pairing:
 1. Disconnect any existing connection.
 2. Turn on the keyboard power switch.
