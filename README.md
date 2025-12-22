@@ -63,6 +63,6 @@
 
 6. 3D Printing File: [Switch cover - base](https://github.com/Gasiro/Vam05/releases/download/Plates/switch-cover-base.stl)
 
-7. 3D Printing File: Keeb feets
+7. 3D Printing File: [Dust Cover](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05-dust-cover.stl)
 
-8. 3D Printing File: Dust Cover
+8. 3D Printing File: Keeb feets
