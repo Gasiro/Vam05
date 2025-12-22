@@ -54,7 +54,7 @@
 1. Vam05 plate file - dxf
 
 2. Vam05 plate file - thick & raised cnc version 3D model
-   Note: 0.5 mm raise, suitable for low-profile keycaps such as PBS. Alternatively, you can use [switch spacers](https://geon.works/products/geon-stem-spacer?srsltid=AfmBOooK4cco2RwcFHYfF9rAVdn84qZb2I-Wq4TTOvM8VZp1q8ff4KnT) on each switch.
+   Note: 0.5 mm raise, works better for low-profile keycaps such as PBS. Alternatively, you can use [switch spacers](https://geon.works/products/geon-stem-spacer?srsltid=AfmBOooK4cco2RwcFHYfF9rAVdn84qZb2I-Wq4TTOvM8VZp1q8ff4KnT) on each switch.
 
 4. Monorial plate file - dxf
 
