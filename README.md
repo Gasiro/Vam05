@@ -2,12 +2,15 @@
 ## ⚠️ This page is still under construction. Please do not use it for actual builds.
 <img width="3732" height="2100" alt="DO1050918 2" src="https://github.com/user-attachments/assets/ac98bf8f-1d58-41b1-a64f-01a2dfb9e0e6" />
 
-### Step 1 
+### Step 1 - Install the light pipe (light guide post) on the top case.
 
-### Step 2
-
+### Step 2 - Prepare the bottom case:
+a.Install the daughterboard + cable, and fasten with M2 screws (use the black hex key).
+b.Install the battery power switch.
+c.Install the waterproof plug / silicone anti-slip pad(s).
 ### Step 3
-
+a.Install the stabilizer pads.
+b.Install the PCB-mounted stabilizers.
 ### Step 4
 
 ### Step 5
