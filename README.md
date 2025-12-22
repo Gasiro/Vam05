@@ -2,6 +2,28 @@
 ## ⚠️ This page is still under construction. Please do not use it for actual builds.
 <img width="3732" height="2100" alt="DO1050918 2" src="https://github.com/user-attachments/assets/ac98bf8f-1d58-41b1-a64f-01a2dfb9e0e6" />
 
+### Step 1 
+
+### Step 2
+
+### Step 3
+
+### Step 4
+
+### Step 5
+
+### Step 6
+
+### Step 7
+
+### Step 8
+
+### Step 9
+
+### Step 10
+
+
+
 [Installing the HAC-006 Battery on the Vam05](https://www.youtube.com/watch?v=nf2Lfo7mWOo)
 
 ### Vam05 typing test
