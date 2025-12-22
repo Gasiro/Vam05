@@ -5,27 +5,33 @@
 ### Step 1 - Install the light pipe (light guide post) on the top case.
 
 ### Step 2 - Prepare the bottom case:
-a.Install the daughterboard + cable, and fasten with M2 screws (use the black hex key).
-b.Install the battery power switch.
-c.Install the waterproof plug / silicone anti-slip pad(s).
-### Step 3
-a.Install the stabilizer pads.
-b.Install the PCB-mounted stabilizers.
-### Step 4
-
-### Step 5
-
-### Step 6
-
-### Step 7
-
-### Step 8
-
-### Step 9
-
-### Step 10
-
-
+1. Install the daughterboard + cable, and fasten with M2 screws (use the black hex key).
+2. Install the battery power switch.
+3. Install the waterproof plug / silicone anti-slip pad(s).
+### Step 3 - PCB (front side):
+1. Install the stabilizer pads.
+2. Install the PCB-mounted stabilizers.
+### Step 4 - On the plate (positioning plate):
+1. Install the stabilizer pads.
+2. Install the PCB-mounted stabilizers.
+### Step 5 - Assemble the front side:
+1. Install the gasket modules (tweezers recommended).
+### Step 6 - PCB (back side):
+1. Install the battery.
+### Step 7 - Wiring + battery placement:
+1. Connect the cable from the daughterboard to the main PCB.
+2. Place the battery into the battery compartment (recommended: add foam inside the compartment to keep the battery firmly in place).
+### Step 8 - Mount the assembly into the case:
+1. Place the plate + PCB assembly into the gasket tray.
+2. Make sure all 4 gasket feet/bases are fully seated (you can check from the side).
+### Step 9 - Close the case:
+1. Install the top case and tighten 4× M3 screws (use the silver hex key).
+### Step 10 - Test / keymap check:
+1. Connect to a computer and open chromeZMKstudio to verify the key positions.
+### Step 11 - Bluetooth pairing:
+1. Disconnect any existing connection.
+2. Turn on the keyboard power switch.
+3. Green LED flashes + blue LED flashes → pair/connect on your computer.
 
 [Installing the HAC-006 Battery on the Vam05](https://www.youtube.com/watch?v=nf2Lfo7mWOo)
 
