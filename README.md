@@ -34,7 +34,7 @@
 
 
 ### Vam05 typing test
-[![Watch the video](https://img.youtube.com/vi/t32Cq-oB5yc/0.jpg)](https://www.youtube.com/watch?v=t32Cq-oB5yc)
+[![Watch the video](https://img.youtube.com/vi/7WKjuuiqcPU/0.jpg)](https://www.youtube.com/watch?v=7WKjuuiqcPU)
 
 ### [Vam05 PCB](https://github.com/Gasiro/vam05_PCB)
 ![DO1050590](https://github.com/user-attachments/assets/90faf69d-e296-4b16-a9a9-82fabb80c278)
