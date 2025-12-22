@@ -31,10 +31,12 @@
 - Turn on the keyboard power switch.
 - Green LED flashes + blue LED flashes → pair/connect on your computer.
 
-### Step-by-Step Assembly Guide Video ⬇️click the pic to watch the video
+### Step-by-Step Assembly Guide Video 
+⬇️click the pic to watch the video
 [![Watch the video](https://img.youtube.com/vi/LCDWu6bFoLs/0.jpg)](https://www.youtube.com/watch?v=LCDWu6bFoLs)
 
-### Vam05 typing test ⬇️click the pic to watch the video
+### Vam05 typing test 
+⬇️click the pic to watch the video
 [![Watch the video](https://img.youtube.com/vi/7WKjuuiqcPU/0.jpg)](https://www.youtube.com/watch?v=7WKjuuiqcPU)
 
 ### More details on the [Vam05 PCB](https://github.com/Gasiro/vam05_PCB) 
