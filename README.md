@@ -11,11 +11,11 @@
 1. Install the switch pad.
 2. Install the 6.25 silent stabilizer.
 ### Step 4 - On the plate (positioning plate):
-Install one set of the modular gasket units. (3 sets included—choose one set to install; tweezers recommended.)
+- Install one set of the modular gasket units. (3 sets included—choose one set to install; tweezers recommended.)
 ### Step 5 - Assemble the front side:
-Install the plate onto the PCB, then install switches + keycaps. (Never install or remove switches or keycaps while the PCB and plate assembly is inside the keyboard case. Otherwise, excessive pressure may BREAK the battery power switch on the top side of the pcb)
+- Install the plate onto the PCB, then install switches + keycaps. (Never install or remove switches or keycaps while the PCB and plate assembly is inside the keyboard case. Otherwise, excessive pressure may BREAK the battery power switch on the top side of the pcb)
 ### Step 6 - PCB (back side):
-Install the HAC-006 battery. Ensure the red wire is on the positive (+) side and the black wire is on the negative (−) side. Connecting a battery with reversed polarity may damage the PCB and could potentially become a fire hazard.
+- Install the HAC-006 battery. Ensure the red wire is on the positive (+) side and the black wire is on the negative (−) side. Connecting a battery with reversed polarity may damage the PCB and could potentially become a fire hazard.
 ### Step 7 - Wiring + battery placement:
 1. Connect the cable from the daughterboard to the main PCB.
 2. Place the battery into the battery compartment (Optional: adding foam inside the compartment can help keep the battery firmly in place).
@@ -23,9 +23,9 @@ Install the HAC-006 battery. Ensure the red wire is on the positive (+) side and
 1. First, fit the black battery power switch on top of the PCB into the slot in the middle of the dark gray battery switch cover. Then place the plate and PCB assembly into the bottom case, seating all four gasket bases into the gasket slots.
 2. Make sure all four gasket bases are fully seated (check from the PC bottom side). If needed, use tweezers to adjust them to ensure proper seating.
 ### Step 9 - Close the case:
-Install the top case and tighten 4× silver M3 screws (use the silver hex key). Use the two longer screws on the rear side, and the two shorter screws on the front side.
+- Install the top case and tighten 4× silver M3 screws (use the silver hex key). Use the two longer screws on the rear side, and the two shorter screws on the front side.
 ### Step 10 - Test / keymap check:
-Connect the keyboard to a computer, then open ZMK Studio in Chrome to check or change the keymap.
+- Connect the keyboard to a computer, then open ZMK Studio in Chrome to check or change the keymap.
 ### Step 11 - Bluetooth pairing:
 1. Disconnect any existing connection.
 2. Turn on the keyboard power switch.
