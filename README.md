@@ -59,9 +59,9 @@
 
 4. [Monorial plate file - dxf](https://github.com/Gasiro/Vam05/releases/download/Plates/monorail_JetVan_vam05case.dxf)
 
-5. 3D Printing File: Gasket
+5. 3D Printing File: [Gasket Group](https://github.com/Gasiro/Vam05/releases/download/Plates/nylon-gasket-group.stl)
 
-6. 3D Printing File: Switch cover
+6. 3D Printing File: [Switch cover - base](https://github.com/Gasiro/Vam05/releases/download/Plates/switch-cover-base.stl)
 
 7. 3D Printing File: Keeb feets
 
