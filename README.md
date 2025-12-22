@@ -58,4 +58,4 @@
 
 7. 3D Printing File: [Dust Cover](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05-dust-cover.stl)
 
-8. 3D Printing File: [7.5 Degree keeb feets](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05-keebfeets-7.5degree.stl)
+8. 3D Printing File: [7.5 Degree keeb feet](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05-keebfeet-7.5degree.stl)
