@@ -55,7 +55,7 @@
 
 2. [Vam05 plate file - thick & raised cnc version 3D model](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05_plate_3mm_rise0.5.step)
 
-   Note: 0.5 mm raise, works better for low-profile keycaps such as PBS. Alternatively, you can use [switch spacers](https://geon.works/products/geon-stem-spacer?srsltid=AfmBOooK4cco2RwcFHYfF9rAVdn84qZb2I-Wq4TTOvM8VZp1q8ff4KnT) on each switch.
+   Note: 0.5 mm raise, works better for low-profile keycaps such as PBS. You can also use [switch spacers](https://geon.works/products/geon-stem-spacer?srsltid=AfmBOooK4cco2RwcFHYfF9rAVdn84qZb2I-Wq4TTOvM8VZp1q8ff4KnT) on each switch.
 
 4. [Monorial plate file - dxf](https://github.com/Gasiro/Vam05/releases/download/Plates/monorail_JetVan_vam05case.dxf)
 
