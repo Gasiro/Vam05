@@ -31,11 +31,13 @@
 - Turn on the keyboard power switch.
 - Green LED flashes + blue LED flashes → pair/connect on your computer.
 
-### More details on the [Vam05 PCB](https://github.com/Gasiro/vam05_PCB) 
+### Step-by-Step Assembly Guide Video ⬇️click the pic to watch the video
+[![Watch the video](https://img.youtube.com/vi/LCDWu6bFoLs/0.jpg)](https://www.youtube.com/watch?v=LCDWu6bFoLs)
 
 ### Vam05 typing test ⬇️click the pic to watch the video
 [![Watch the video](https://img.youtube.com/vi/7WKjuuiqcPU/0.jpg)](https://www.youtube.com/watch?v=7WKjuuiqcPU)
 
+### More details on the [Vam05 PCB](https://github.com/Gasiro/vam05_PCB) 
 
 # 2.Parts you can buy online (same size, but not the original group-buy parts)
 1. [2mmx11.7 light pipe](https://www.aliexpress.com/item/1005006222625168.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.4.72f2NftKNftKTH&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40196.439370.0&scm_id=1007.40196.439370.0&scm-url=1007.40196.439370.0&pvid=b57cd1a0-8e76-4e38-8b3b-5f4d05b64347&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40196.439370.0,pvid:b57cd1a0-8e76-4e38-8b3b-5f4d05b64347,tpp_buckets:668%232846%238115%232000&pdp_ext_f=%7B%22order%22%3A%2219%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%7D&pdp_npi=4%40dis%21GBP%211.28%211.28%21%21%2112.10%2112.10%21%4021038e1e17494784789748290eae03%2112000036349580327%21rec%21UK%216343852343%21X&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A) x3 
