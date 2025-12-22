@@ -19,6 +19,7 @@
 ### Step 7 - Wiring + battery placement:
 1. Connect the cable from the daughterboard to the main PCB.
 2. Place the battery into the battery compartment (Optional: adding foam inside the compartment can help keep the battery firmly in place).
+- [Installing the HAC-006 Battery on the Vam05](https://www.youtube.com/watch?v=nf2Lfo7mWOo)
 ### Step 8 - Mount the assembly into the case:
 1. First, fit the black battery power switch on top of the PCB into the slot in the middle of the dark gray battery switch cover. Then place the plate and PCB assembly into the bottom case, seating all four gasket bases into the gasket slots.
 2. Make sure all four gasket bases are fully seated (check from the PC bottom side). If needed, use tweezers to adjust them to ensure proper seating.
@@ -31,7 +32,7 @@
 2. Turn on the keyboard power switch.
 3. Green LED flashes + blue LED flashes → pair/connect on your computer.
 
-[Installing the HAC-006 Battery on the Vam05](https://www.youtube.com/watch?v=nf2Lfo7mWOo)
+
 
 ### Vam05 typing test
 [![Watch the video](https://img.youtube.com/vi/t32Cq-oB5yc/0.jpg)](https://www.youtube.com/watch?v=t32Cq-oB5yc)
