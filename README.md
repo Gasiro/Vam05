@@ -37,7 +37,6 @@
 [![Watch the video](https://img.youtube.com/vi/7WKjuuiqcPU/0.jpg)](https://www.youtube.com/watch?v=7WKjuuiqcPU)
 
 
-
 # 2.Parts you can buy online (same size, but not the original group-buy parts)
 1. [2mmx11.7 light pipe](https://www.aliexpress.com/item/1005006222625168.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.4.72f2NftKNftKTH&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40196.439370.0&scm_id=1007.40196.439370.0&scm-url=1007.40196.439370.0&pvid=b57cd1a0-8e76-4e38-8b3b-5f4d05b64347&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40196.439370.0,pvid:b57cd1a0-8e76-4e38-8b3b-5f4d05b64347,tpp_buckets:668%232846%238115%232000&pdp_ext_f=%7B%22order%22%3A%2219%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%7D&pdp_npi=4%40dis%21GBP%211.28%211.28%21%21%2112.10%2112.10%21%4021038e1e17494784789748290eae03%2112000036349580327%21rec%21UK%216343852343%21X&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A) x3 
 2. [M3x10 Hex Screw](https://www.aliexpress.com/item/1005004179534786.html?spm=a2g0o.productlist.main.10.eea5493f4uoFC4&aem_p4p_detail=202506080202543719277579238900003490342&algo_pvid=32611623-4362-4cad-b20e-9a435ddd85e5&algo_exp_id=32611623-4362-4cad-b20e-9a435ddd85e5-9&pdp_ext_f=%7B%22order%22%3A%22456%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%211.24%210.81%21%21%211.63%211.06%21%402103864c17493733743022032e7a1c%2112000028300654706%21sea%21UK%216343852343%21X&curPageLogUid=oarhR68vySRO&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506080202543719277579238900003490342_3) x2
@@ -50,3 +49,19 @@
 9. (optional keeb feet) [5x2mm Rubber Pad](https://www.aliexpress.com/item/1005002619943801.html?src=google&pdp_npi=4%40dis!GBP!1.18!1.18!!!!!%40!12000037722193572!ppc!!!&src=google&albch=shopping&acnt=742-864-1166&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005002619943801&ds_e_product_merchant_id=108132440&ds_e_product_country=GB&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=22583283287&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=22586945239&gbraid=0AAAAA99aYpeU3h1B1xGbIw34ADbJ-Poqz&gclid=CjwKCAjw6ZTCBhBOEiwAqfwJd_1dLIztRK_0vXsYjuUWDCpkPY8V85Yg4SDP4u7I4Bk-Bxt5cx8qHhoCogwQAvD_BwE) x2
 10. (optional keeb feets) [M3x10 Set Screw](https://www.aliexpress.com/item/1005007437626242.html?spm=a2g0o.productlist.main.22.4c19w4v2w4v2g4&aem_p4p_detail=20250608025039873944920309600003615029&algo_pvid=44a50d37-4160-4f56-9012-2e59d60d9047&algo_exp_id=44a50d37-4160-4f56-9012-2e59d60d9047-21&pdp_ext_f=%7B%22order%22%3A%2232%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%211.31%210.84%21%21%2112.38%217.92%21%40211b876e17493762390884258e6b68%2112000040753488267%21sea%21UK%216343852343%21X&curPageLogUid=ccn7W1sXQhma&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=20250608025039873944920309600003615029_6) x2
 11. (optional keeb feets) [M3x3.4-OD3.4 Hot Inserts](https://www.aliexpress.com/item/1005006356290627.html?spm=a2g0o.productlist.main.22.1e0c1e17ovnVzX&aem_p4p_detail=202506080256245446359631005480003144335&algo_pvid=7fe0e115-bddb-432a-8fcb-87697665dff4&algo_exp_id=7fe0e115-bddb-432a-8fcb-87697665dff4-21&pdp_ext_f=%7B%22order%22%3A%2258%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%213.36%213.36%21%21%2131.78%2131.78%21%40211b815c17493765844335926ef92f%2112000036872725928%21sea%21UK%216343852343%21X&curPageLogUid=gBrvpEZXizcT&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506080256245446359631005480003144335_6) x4 for 3d-printed keeb feets
+
+# 3.Downloadable Files/Models
+1. Vam05 plate file - dxf
+
+2. Vam05 plate file - thick & raised cnc version 3D model
+   Note: 0.5 mm raise, suitable for low-profile keycaps such as PBS. Alternatively, you can use [switch spacers](https://geon.works/products/geon-stem-spacer?srsltid=AfmBOooK4cco2RwcFHYfF9rAVdn84qZb2I-Wq4TTOvM8VZp1q8ff4KnT) on each switch.
+
+4. Monorial plate file - dxf
+
+5. 3D Printing File: Gasket
+
+6. 3D Printing File: Switch cover
+
+7. 3D Printing File: Keeb feets
+
+8. 3D Printing File: Dust Cover
