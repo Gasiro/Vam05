@@ -51,13 +51,13 @@
 11. (optional keeb feets) [M3x3.4-OD3.4 Hot Inserts](https://www.aliexpress.com/item/1005006356290627.html?spm=a2g0o.productlist.main.22.1e0c1e17ovnVzX&aem_p4p_detail=202506080256245446359631005480003144335&algo_pvid=7fe0e115-bddb-432a-8fcb-87697665dff4&algo_exp_id=7fe0e115-bddb-432a-8fcb-87697665dff4-21&pdp_ext_f=%7B%22order%22%3A%2258%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21GBP%213.36%213.36%21%21%2131.78%2131.78%21%40211b815c17493765844335926ef92f%2112000036872725928%21sea%21UK%216343852343%21X&curPageLogUid=gBrvpEZXizcT&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202506080256245446359631005480003144335_6) x4 for 3d-printed keeb feets
 
 # 3.Downloadable Files/Models
-1. [Vam05 plate file - dxf](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05_plate_fr4.dxf)
+1. Vam05 plate file - [dxf](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05_plate_fr4.dxf)
 
-2. [Vam05 plate file - thick & raised cnc version 3D model](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05_plate_3mm_rise0.5.step)
+2. Vam05 plate file - [thick & raised cnc version 3D model](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05_plate_3mm_rise0.5.step)
 
    Note: 0.5 mm raise, works better for low-profile keycaps such as PBS. You can also use [switch spacers](https://geon.works/products/geon-stem-spacer?srsltid=AfmBOooK4cco2RwcFHYfF9rAVdn84qZb2I-Wq4TTOvM8VZp1q8ff4KnT) on each switch.
 
-4. [Monorial plate file - dxf](https://github.com/Gasiro/Vam05/releases/download/Plates/monorail_JetVan_vam05case.dxf)
+4. Monorial plate file - [dxf](https://github.com/Gasiro/Vam05/releases/download/Plates/monorail_JetVan_vam05case.dxf)
 
 5. 3D Printing File: [Gasket Group](https://github.com/Gasiro/Vam05/releases/download/Plates/nylon-gasket-group.stl)
 
