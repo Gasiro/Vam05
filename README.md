@@ -1,4 +1,4 @@
-# Vam05 keyboard
+# Vam05 keyboard building guide
 ## ⚠️ This page is still under construction. Please do not use it for actual builds.
 <img width="3732" height="2100" alt="DO1050918 2" src="https://github.com/user-attachments/assets/ac98bf8f-1d58-41b1-a64f-01a2dfb9e0e6" />
 
