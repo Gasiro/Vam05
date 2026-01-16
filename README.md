@@ -50,7 +50,7 @@
 
    Note: 0.5 mm raise, works better for low-profile keycaps such as PBS. You can also use [switch spacers](https://geon.works/products/geon-stem-spacer?srsltid=AfmBOooK4cco2RwcFHYfF9rAVdn84qZb2I-Wq4TTOvM8VZp1q8ff4KnT) on each switch.
 
-4. Monorial([by kiser](https://www.kiserdesigns.com/product/monorail-v2-pcb)) compatible plate file - [dxf](https://github.com/Gasiro/Vam05/releases/download/Plates/monorail_JetVan_vam05case.dxf)
+4. Monorail ([by kiser](https://www.kiserdesigns.com/product/monorail-v2-pcb)) compatible plate file - [dxf](https://github.com/Gasiro/Vam05/releases/download/Plates/monorail_JetVan_vam05case.dxf)
 
 5. 3D Printing File: [Gasket Group](https://github.com/Gasiro/Vam05/releases/download/Plates/nylon-gasket-group.stl)
 
