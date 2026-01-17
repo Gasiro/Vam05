@@ -58,17 +58,17 @@
 
 # 2.Downloadable Files/Models
 1. Vam05 plate file - [dxf](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05_plate_fr4.dxf)
-
+- <img width="2979" height="1257" alt="0 1" src="https://github.com/user-attachments/assets/20cb1413-9471-4576-8048-0d87be1afb5c" />
 2. Vam05 plate file - [thick & raised cnc version 3D model](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05_plate_3mm_rise0.5.step)
 
    Note: 0.5 mm raise, works better for low-profile keycaps such as PBS. You can also use [switch spacers](https://geon.works/products/geon-stem-spacer?srsltid=AfmBOooK4cco2RwcFHYfF9rAVdn84qZb2I-Wq4TTOvM8VZp1q8ff4KnT) on each switch.
-
+- <img width="4160" height="2160" alt="0 2" src="https://github.com/user-attachments/assets/afae1a77-724b-4bb6-81bd-3bcc7f5b3656" />
 4. Monorail ([by kiser](https://www.kiserdesigns.com/product/monorail-v2-pcb)) compatible plate file - [dxf](https://github.com/Gasiro/Vam05/releases/download/Plates/monorail_JetVan_vam05case.dxf)
 
 5. 3D Printing File: [Gasket Group](https://github.com/Gasiro/Vam05/releases/download/Plates/nylon-gasket-group.stl)
-
+- <img width="4160" height="2160" alt="0 4" src="https://github.com/user-attachments/assets/521e7d5e-3bd8-4c5b-8641-406cb906bd07" />
 6. 3D Printing File: [Switch cover - base](https://github.com/Gasiro/Vam05/releases/download/Plates/switch-cover-base.stl)
-
+- <img width="2160" height="2160" alt="0 5" src="https://github.com/user-attachments/assets/a593584b-7829-422d-be78-9c4d829bbfa3" />
 7. 3D Printing File: [Dust Cover](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05-dust-cover.stl)
-
+- <img width="4160" height="2160" alt="0 6" src="https://github.com/user-attachments/assets/5384e3d8-edbc-4651-9a2c-184f295e3b5c" />
 8. 3D Printing File: [7.5 Degree keeb feet](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05-keebfeet-7.5degree.stl)
