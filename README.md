@@ -1,6 +1,11 @@
 # Vam05 keyboard - Wiki
 <img width="3732" height="2100" alt="DO1050918 2" src="https://github.com/user-attachments/assets/ac98bf8f-1d58-41b1-a64f-01a2dfb9e0e6" />
 
+### Step-by-Step Assembly Guide Video 
+⬇️click the pic to watch the video
+
+[![Watch the video](https://img.youtube.com/vi/LCDWu6bFoLs/0.jpg)](https://www.youtube.com/watch?v=LCDWu6bFoLs)
+
 # 1.Keyboard Build Guide (Step by Step)
 ### Step 1 - Install the light guide column on the top case.
 - <img width="4096" height="1892" alt="1" src="https://github.com/user-attachments/assets/7e8dd836-049a-4ccc-9dbe-a02ad2225d24" />
@@ -43,11 +48,6 @@
 - Disconnect any existing connection.
 - Turn on the keyboard power switch.
 - Green LED flashes + blue LED flashes → pair/connect on your computer.
-
-### Step-by-Step Assembly Guide Video 
-⬇️click the pic to watch the video
-
-[![Watch the video](https://img.youtube.com/vi/LCDWu6bFoLs/0.jpg)](https://www.youtube.com/watch?v=LCDWu6bFoLs)
 
 ### Vam05 typing test 
 ⬇️click the pic to watch the video
