@@ -22,6 +22,7 @@
 ### Step 4 - On the plate (positioning plate):
 - Install one set of the modular gasket units. (3 sets included—choose one set to install; tweezers recommended.)
 - <img width="4096" height="2160" alt="4" src="https://github.com/user-attachments/assets/f301b2ba-fa14-4e0e-bba2-cc937d2b96d8" />
+- <img width="1576" height="1726" alt="11" src="https://github.com/user-attachments/assets/46e29257-f4a5-412f-af44-1eb0efe8c48c" />
 - <img width="2417" height="3374" alt="gasketsys" src="https://github.com/user-attachments/assets/e4b9e8ca-8f49-4ed2-8ad9-9e9e629e042a" />
 ### Step 5 - Assemble the front side:
 - Install the plate onto the PCB, then install switches + keycaps. (Never install or remove switches or keycaps while the PCB and plate assembly is inside the keyboard case. Otherwise, excessive pressure may BREAK the battery power switch on the top side of the pcb)
