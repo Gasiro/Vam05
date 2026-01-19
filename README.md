@@ -71,5 +71,4 @@
 6. 3D Printing File: [Switch cover - base](https://github.com/Gasiro/Vam05/releases/download/Plates/switch-cover-base.stl)
 - <img width="2160" height="2160" alt="0 5" src="https://github.com/user-attachments/assets/a593584b-7829-422d-be78-9c4d829bbfa3" />
 7. 3D Printing File: [Dust Cover](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05-dust-cover.stl)
-- <img width="4160" height="2160" alt="0 6" src="https://github.com/user-attachments/assets/5384e3d8-edbc-4651-9a2c-184f295e3b5c" />
 8. 3D Printing File: [7.5 Degree keeb feet](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05-keebfeet-7.5degree.stl)
