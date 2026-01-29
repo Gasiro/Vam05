@@ -44,8 +44,8 @@
 - <img width="2321" height="1470" alt="8 2" src="https://github.com/user-attachments/assets/3bd960a8-4346-45da-8b33-38262bb74c19" />
 ### Step 9 - Close the case:
 - Install the top case and tighten 4× silver M3 screws (use the silver hex key). Use the two longer screws on the rear side, and the two shorter screws on the front side.
-- <img width="4096" height="2160" alt="9 1" src="https://github.com/user-attachments/assets/03da1066-da86-43ed-a839-eaaf904b601d" />
-- <img width="4096" height="2160" alt="537196191-3ad6e11b-3664-4a9e-a8a3-6ac779bdc1ff" src="https://github.com/user-attachments/assets/53e18d34-c6fe-4f34-abf2-ba0015404386" />
+- <img width="2055" height="1314" alt="9 1 2" src="https://github.com/user-attachments/assets/829eeab7-e44a-493b-8d3d-a79bdee5d708" />
+- <img width="2091" height="1548" alt="537196191-3ad6e11b-3664-4a9e-a8a3-6ac779bdc1ff" src="https://github.com/user-attachments/assets/ace85668-5696-4ab0-a90c-17079ef14ba1" />
 ### Step 10 - Test / keymap check:
 - Connect the keyboard to a computer, then open ZMK Studio in Chrome to check or change the keymap.
 ### Step 11 - Bluetooth pairing:
