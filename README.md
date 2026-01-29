@@ -1,6 +1,6 @@
 # Vam05 keyboard - Wiki
 <img width="3732" height="2100" alt="DO1050918 2" src="https://github.com/user-attachments/assets/ac98bf8f-1d58-41b1-a64f-01a2dfb9e0e6" />
-
+[Vam05 Discord Channel](https://discord.com/channels/527180441950617611/1398993817776029777) 
 ### Step-by-Step Assembly Guide Video 
 ⬇️click the pic to watch the video
 
