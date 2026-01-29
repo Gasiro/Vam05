@@ -25,6 +25,8 @@
 - Cut along the red line, and you'll get three sets（four in each set） of gasket bases of different thicknesses. The thicker the gasket base, the firmer the typing feel.
 - <img width="1560" height="1350" alt="537334442-ac5a1482-6b37-4f1a-8912-d3b16d8b9b8c" src="https://github.com/user-attachments/assets/f93bdacd-3535-4608-99ee-d255b7ac9b24" />
 - <img width="2417" height="3374" alt="gasketsys" src="https://github.com/user-attachments/assets/e4b9e8ca-8f49-4ed2-8ad9-9e9e629e042a" />
+- **Modular Gasket System**
+- The modular gasket system consists of two components: a inverted T-shaped plastic support base on the bottom, and a hollow cylindrical silicone gasket insert on top. The plastic base comes in three different thicknesses, and the gasket insert is available in three structural stiffness levels. These can be combined in various ways to achieve different typing feels. Users may also choose to omit the T-base or use only the central post without the lower disk to achieve the softest possible configuration. The system is compatible with positioning plates ranging from 1.5 mm to 3 mm in thickness.
 ### Step 5 - Assemble the front side:
 - Install the plate onto the PCB, then install switches + keycaps. (Never install or remove switches or keycaps while the PCB and plate assembly is inside the keyboard case. Otherwise, excessive pressure may BREAK the battery power switch on the top side of the pcb)
 - <img width="4096" height="2160" alt="5 1" src="https://github.com/user-attachments/assets/d3dfa504-74b4-4fc2-a8dd-18c90b310c2a" />
