@@ -12,7 +12,7 @@
 ### Step 2 - Prepare the bottom case:
 - Install the C5 daughterboard + JST-SH cable, and fasten with 4 gold M2 screws (use the black hex key).
 - Install the clear waterproof plug (Bottom RST insert) + 4 white rubber feet.
-- <img width="4096" height="2160" alt="2 1" src="https://github.com/user-attachments/assets/f405a34a-67ac-4db6-b71b-df954adc3fde" />
+- <img width="4096" height="2160" alt="537195641-f405a34a-67ac-4db6-b71b-df954adc3fde" src="https://github.com/user-attachments/assets/62b8b691-9d40-4b5c-a7ba-93d8b1dac929" />
 - <img width="4096" height="2160" alt="2 2" src="https://github.com/user-attachments/assets/e660e063-2bf3-49fd-9e3d-bc35f77eaef1" />
 - <img width="4096" height="2160" alt="2 3" src="https://github.com/user-attachments/assets/4153be33-54a6-47da-ae1b-4b81af275754" />
 ### Step 3 - PCB (front side):
