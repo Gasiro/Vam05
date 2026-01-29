@@ -66,7 +66,7 @@
 2. Vam05 plate file - [thick & raised cnc version 3D model](https://github.com/Gasiro/Vam05/releases/download/Plates/vam05_plate_3mm_rise0.5.step)
 
    Note: 0.5 mm raise, works better for low-profile keycaps such as PBS. You can also use [switch spacers](https://geon.works/products/geon-stem-spacer?srsltid=AfmBOooK4cco2RwcFHYfF9rAVdn84qZb2I-Wq4TTOvM8VZp1q8ff4KnT) on each switch.
-- I personally use a thick CNC carbon plate paired with silent tactile switches, and the stability and sound dampening are both excellent. However, because pure carbon fiber does not look very clean after cutting, the edges can appear rough and the layers may slightly lift. For this reason, we decided to use white FR4 for the final group buy.
+- * I personally use a thick CNC carbon fiber plate paired with silent tactile switches, and the stability and sound dampening are both excellent. However, because pure carbon fiber does not look very neat after cutting, the surface can appear rough. For this reason, we decided to use white FR4 for the final group buy.
 - Both thin and thick CNC aluminum plates also perform very well. That said, since an aluminum plate and an aluminum top case have similar hardness, they may contact each other at the locating points, which could leave minor marks on the aluminum top case. Therefore, if you choose a metal plate made by cutting or CNC, please keep this in mind.
 - <img width="4160" height="2160" alt="0 2" src="https://github.com/user-attachments/assets/afae1a77-724b-4bb6-81bd-3bcc7f5b3656" />
 4. Monorail ([by kiser](https://www.kiserdesigns.com/product/monorail-v2-pcb)) compatible plate file - [dxf](https://github.com/Gasiro/Vam05/releases/download/Plates/monorail_JetVan_vam05case.dxf)
