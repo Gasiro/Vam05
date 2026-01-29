@@ -41,7 +41,7 @@
 - First, fit the black battery power switch on top of the PCB into the slot in the middle of the dark gray battery switch cover. Then place the plate and PCB assembly into the bottom case, seating all four gasket bases into the gasket slots.
 - Make sure all four gasket bases are fully seated (check from the PC bottom side). If needed, use tweezers to adjust them to ensure proper seating.
 - <img width="4096" height="2160" alt="8 1" src="https://github.com/user-attachments/assets/f9258b4e-2216-4e35-875a-f0852efdf717" />
-- <img width="4096" height="2160" alt="8 2" src="https://github.com/user-attachments/assets/7264a16c-65c0-44d4-aa38-4f039884a2c5" />
+- <img width="2321" height="1470" alt="8 2" src="https://github.com/user-attachments/assets/3bd960a8-4346-45da-8b33-38262bb74c19" />
 ### Step 9 - Close the case:
 - Install the top case and tighten 4× silver M3 screws (use the silver hex key). Use the two longer screws on the rear side, and the two shorter screws on the front side.
 - <img width="4096" height="2160" alt="9 1" src="https://github.com/user-attachments/assets/03da1066-da86-43ed-a839-eaaf904b601d" />
